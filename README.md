@@ -1,4 +1,4 @@
-Source code for Hadoop in Practice, Second Edition
+Hadoop 实战，第二版(暂时只有英文版) 源代码
 ==================================================
 
 This project contains the source code that accompanies the book
